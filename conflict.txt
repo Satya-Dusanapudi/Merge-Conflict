@@ -1,1 +1,1 @@
-edited by branch A
+Edited by both branches A and B
